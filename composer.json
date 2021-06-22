@@ -1,0 +1,14 @@
+{
+    "name": "indieteq/sports",
+    "description": "A database class for MySQL with PDO",
+    "type": "library",
+    "keywords": ["mysql", "pdo", "php", "beer", "free"],
+    "homepage": "https://github.com/BenieSereine/Sports",
+    "license": "Beerware",
+    "authors": [
+        { "name": "Benie Sereine", "email": "BMugwaneza720@gmail.com" }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
